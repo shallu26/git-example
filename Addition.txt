@@ -3,3 +3,4 @@ int b=10;
 int c=22;
 int d=26;
 file changed
+int c=22;
